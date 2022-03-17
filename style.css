@@ -6,4 +6,25 @@
 
 body{
     background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 4rem;
+    margin: 10vh 10vw;
+}
+
+button{
+    padding: 1rem 5rem;
+    outline: none;
+    border: none;
+    background-color: yellow;
+    border-radius:4rem;
+    margin-left: 10vw;
+}
+
+button a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
 }
